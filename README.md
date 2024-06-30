@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**CorentinDeldalle19/CorentinDeldalle19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm navigating between code and adventure. 🏄‍♂️  
+A web dev enthusiast who loves challenges and hitting the gym. 🚀  
+Passionate about innovation and eager for ambitious collaborations.  
 
-Here are some ideas to get you started:
+### 🖥️ Hard skills:
+- Frontend:
+    - HTML/CSS
+    - JavaScript
+    - React
+    - Angular
+- Backend:
+    - NodeJs
+    - Python
+    - C
+    - Java
+- Design models with Figma
+- CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ‍💼 Hard skills:
+- Effective communication
+- Collaborative teamwork
+- Problem solving
+- Time management and organization
+
+Let's build something extraordinary together ! 🤩

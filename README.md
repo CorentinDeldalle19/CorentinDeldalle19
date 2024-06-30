@@ -1,4 +1,5 @@
 # Hi there! 👋
+*Currently a work-study web developer at IBM France*
 
 I'm navigating between code and adventure. 🏄‍♂️  
 A web dev enthusiast who loves challenges and hitting the gym. 🚀  

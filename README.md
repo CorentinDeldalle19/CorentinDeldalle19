@@ -1,4 +1,4 @@
-Hi there! 👋  
+# Hi there! 👋  
 *Currently a work-study web developer at IBM France*  
 
 # 💻 Tech Stack:

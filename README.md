@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there! 👋  
 *Currently a work-study web developer at IBM France*  
 
@@ -15,6 +14,3 @@ A web dev enthusiast who loves challenges and hitting the gym. 🚀
 Passionate about innovation and eager for ambitious collaborations.  
 
 Let's build something extraordinary together! 🤩
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinDeldalle19&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
